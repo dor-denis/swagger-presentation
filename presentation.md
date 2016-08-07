@@ -79,9 +79,9 @@
 Swagger consists of several core tools provided by Swagger team, and from lots of third-party open source and commercial products.
 
 ## Swagger UI
-Converts Swagger file into beautiful interactive documentation available for customization.
 
-![Swagger UI](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Swagger UI](https://github.com/dor-denis/swagger-presentation/raw/master/images/swagger-ui.png "Converts Swagger file into beautiful interactive documentation available for customization")
+
 ---
 
 ## Swagger Editor
