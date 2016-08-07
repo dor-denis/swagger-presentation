@@ -76,11 +76,19 @@
 
 ## Swagger Ecosystem
 
-Swagger consists of several core tools provided by Swagger team, and from lots of third-party open source and commercial products.
+### Swagger consists of several core tools provided by Swagger team, and from lots of third-party open source and commercial products. This is where magic begins.
+
+---
+
+![Magic](http://i.giphy.com/Y8BjjIcVx9SDe.gif)
+
+---
 
 ## Swagger UI
-Converts Swagger file into beautiful interactive documentation available for customization
-![Swagger UI](https://github.com/dor-denis/swagger-presentation/raw/master/images/swagger-ui.png "")
+
+Converts Swagger file into beautiful interactive documentation available for customization.
+
+![Swagger UI](https://github.com/dor-denis/swagger-presentation/raw/master/images/swagger-ui.png)
 
 ---
 
