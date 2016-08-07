@@ -24,7 +24,7 @@
 
 ## An example of Swagger file
 
-`
+```YAML
   swagger: "2.0"
   info:
     version: "1.0.0"
@@ -70,7 +70,7 @@
           type: "string"
         tag:
           type: "string"
-`
+```
 
 ---
 
@@ -79,8 +79,8 @@
 Swagger consists of several core tools provided by Swagger team, and from lots of third-party open source and commercial products.
 
 ## Swagger UI
-
-![Swagger UI](https://github.com/dor-denis/swagger-presentation/raw/master/images/swagger-ui.png "Converts Swagger file into beautiful interactive documentation available for customization")
+Converts Swagger file into beautiful interactive documentation available for customization
+![Swagger UI](https://github.com/dor-denis/swagger-presentation/raw/master/images/swagger-ui.png "")
 
 ---
 
