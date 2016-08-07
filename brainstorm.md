@@ -8,9 +8,10 @@
 4. На основе файла сгенерировать документацию с помощью Swagger UI, клиент для JavaScript и Clojure, а также заготовку сервера на NodeJS.
 5. Разобраться как это все сделать на Swagger Hub. Стоит ли все делать там, чтобы потом еще и запустить API.
 6. Посмотреть, как AWS работает со Swagger.
+7. Показать пример использования клиента (код)
 
 
-UI, Editor, CodeGen, Validator
+UI, Editor, CodeGen, Validator, Swagger Hub
 
 Преимущества Swagger Hub:
 - Интеграция с GitHub

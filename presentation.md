@@ -80,7 +80,7 @@
 
 ---
 
-![Magic](http://i.giphy.com/Y8BjjIcVx9SDe.gif)
+![Magic](images/giphy.gif)
 
 ---
 
@@ -88,7 +88,7 @@
 
 Converts Swagger file into beautiful interactive documentation available for customization.
 
-![Swagger UI](https://github.com/dor-denis/swagger-presentation/raw/master/images/swagger-ui.png)
+![Swagger UI](images/swagger-ui.png)
 
 ---
 
@@ -97,3 +97,7 @@ WYSIWYG web editor for YAML files
 
 ## CodeGen
 Generate clients and server stubs on the fly directly from the YAML files.
+
+## Validator
+Validate your YAML/JSON files while developing
+
